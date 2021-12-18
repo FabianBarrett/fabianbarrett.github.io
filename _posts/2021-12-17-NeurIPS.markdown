@@ -17,6 +17,6 @@ at the Deep Generative Models and Downstream Applications workshop is
 [here](https://github.com/dgms-and-applications/2021/raw/f62bbb3983ecf5120f70b046a8294c52975b2827/NeurIPS_DGMs_Camera_Ready_Barrett_et_al.pdf).
 Check them out! :slightly_smiling_face:
 
-Otherwise you can also take a look at our poster: ![poster](/docs/images/NeurIPS_BDL_Poster.png)
+Otherwise you can also take a look at our poster: ![poster](/images/NeurIPS_BDL_Poster.png)
 
 

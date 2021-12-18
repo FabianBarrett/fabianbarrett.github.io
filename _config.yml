@@ -20,7 +20,7 @@
 
 domain: fabianbarrett.github.io
 url: https://fabianbarrett.github.io/
-baseurl: /docs
+# baseurl: "/docs"
 
 title: Ben Barrett
 email: ben.neuber.barrett@gmail.com
