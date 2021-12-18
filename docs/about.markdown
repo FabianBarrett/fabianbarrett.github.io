@@ -11,9 +11,9 @@ quantitative solutions to problems in industry. Previously, I completed a master
 degree in statistics at Oxford, and a bachelor's degree in applied mathematics at
 Harvard.
 
-I'm currently looking to explore my interests in economics -- broadly construed, I'd like
-to know more about how we can intervene on economic systems to deliver more efficient
-_and_ more equitable outcomes.
+I'm looking to explore my interests in economics; broadly, I'd like to know more about
+how we can intervene on economic systems to deliver both more efficient and more
+equitable outcomes.
 
-Outside of work, I care about some staples: architecture, the outdoors, electronic
-music, and good food.
+Outside of work, I care about modernist architecture, the outdoors, electronic music,
+and good food.

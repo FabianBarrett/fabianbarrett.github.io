@@ -20,13 +20,13 @@
 
 domain: fabianbarrett.github.io
 url: https://fabianbarrett.github.io/
-baseurl: /docs/
+baseurl: /docs
 
 title: Ben Barrett
 email: ben.neuber.barrett@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 github_username:  FabianBarrett
-linkedin_username: ben-neuber-barrett
+# linkedin_username: ben-neuber-barrett
 
 # Build settings
 theme: minima
