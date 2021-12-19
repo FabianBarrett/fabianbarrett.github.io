@@ -7,7 +7,7 @@ layout: home
 
 # About
 
-Hi! I'm Ben.
+Hi! :wave: I'm Ben.
 
 I work at [QuantCo](https://quantco.com/), developing
 quantitative solutions to problems in industry.
@@ -19,5 +19,6 @@ Harvard.
 I'm currently looking to explore interests in economics, in particular in areas like
 market design and industrial organization.
 
-Outside of work I get excited about architecture, the outdoors,
-electronic music, and so much more.
+I grew up in :fr:, :es: and :uk:, and have since also lived in :us: and :de:.
+Outside of work, some of the things I get excited about are architecture, the outdoors,
+and electronica.
