@@ -15,8 +15,8 @@ layout: default
                     {{ content }}
                 </td>
                 <td style="padding:2.5%;width:40%;max-width:40%">
-                    <a href="images/Profile_Picture_Circular.png"><img style="width:100%;max-width:100%" alt="Me"
-                            src="images/Profile_Picture_Circular.png" class="hoverZoomLink"></a>
+                    <img style="width:100%;max-width:100%" alt="Me" src="images/Alt_Profile_Pic.png"
+                        class="hoverZoomLink">
                 </td>
             </tr>
             <!-- To switch off color-alternation, add redundant row -->
@@ -27,14 +27,14 @@ layout: default
                     <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2>
                     <ul class="post-list">
                         {%- for post in site.posts -%}
-                        <li>
+                        <li style="margin:0px">
                             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                             <span class="post-meta">{{ post.date | date: date_format }}</span>
-                            <h3>
+                            <h4>
                                 <a class="post-link" href="{{ post.url | relative_url }}">
                                     {{ post.title | escape }}
                                 </a>
-                            </h3>
+                            </h4>
                             {%- if site.show_excerpts -%}
                             {{ post.excerpt }}
                             {%- endif -%}
@@ -48,5 +48,4 @@ layout: default
             </tr>
         </tbody>
     </table>
-
 </div>
