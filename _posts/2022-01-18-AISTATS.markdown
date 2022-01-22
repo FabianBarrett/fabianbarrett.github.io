@@ -3,9 +3,10 @@ layout: post
 title:  "AISTATS 2022"
 date:   2022-01-18 18:04:00 +0100
 categories: news
+excerpt: A version of my dissertation will appear at AISTATS 2022.
 ---
 
-It took a few revisions, but the paper that originated as my master's dissertation —
+The paper that originated as my master's dissertation —
 _Certifiably Robust Variational Autoencoders_ ([arXiv](https://arxiv.org/abs/2102.07559))
 — has been accepted as a full conference paper at
 [AISTATS 2022](http://aistats.org/aistats2022/).

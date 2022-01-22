@@ -3,6 +3,7 @@ layout: post
 title:  "NeurIPS 2021"
 date:   2021-12-17 20:51:49 +0100
 categories: news
+excerpt: Our paper appeared at two NeurIPS 2021 workshops.
 ---
 
 Our paper _Certifiably Robust Variational Autoencoders_
