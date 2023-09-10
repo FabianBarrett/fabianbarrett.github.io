@@ -5,15 +5,14 @@
 layout: home
 ---
 
-# About
+## About
 
 Hi! :wave: I'm Ben.
 
-I'm currently a predoctoral fellow in economics at Stanford, working most closely with [Claudia Allende](https://www.claudiaallendesc.com/) and [Shoshana Vasserman](https://shoshanavasserman.com/).
+I'm currently a predoctoral fellow in economics at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/), working with [Claudia Allende](https://www.claudiaallendesc.com/) and [Shoshana Vasserman](https://shoshanavasserman.com/).
 
-Previously, I was at [QuantCo](https://quantco.com/), developing quantitative solutions to problems in industry. Still before that, I completed a master's
-degree in statistics at Oxford, and a bachelor's degree in applied mathematics at
-Harvard.
+I'm broadly interested in industrial organization and empirical market design, with applications to environmental and health policy.
 
-I'm originally from :uk:, :de: and :fr:. Outside of work, some of the things I get excited about are architecture, the outdoors,
-and electronica.
+Previously, I was a data scientist at [QuantCo](https://quantco.com/), helping develop algorithmic pricing solutions. Before that, I completed a master's degree in statistics at Oxford, and a bachelor's degree in applied mathematics at Harvard.
+
+I am applying to PhD programs in economics for Fall 2024 admission. My résumé is [here](/data/resume.pdf).
