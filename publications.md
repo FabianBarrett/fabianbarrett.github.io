@@ -7,6 +7,6 @@ layout: default
 </head>
 
 **Certifiably Robust Variational Autoencoders**  
-(with Alex Camuto, Matthew Willetts, and Tom Rainforth)  
+(first author; with Alex Camuto, Matthew Willetts, and Tom Rainforth)  
 International Conference on Artificial Intelligence and Statistics (AISTATS), 2022  
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Paper](https://proceedings.mlr.press/v151/barrett22a/barrett22a.pdf)
