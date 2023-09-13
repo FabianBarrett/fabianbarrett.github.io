@@ -8,7 +8,7 @@ layout: default
 **Economics**
 
 <!-- @Stanford:  -->
-* Econ 202: Microeconomics I (PhD-level), with Ilya Segal & Ravi Jagadeesan
+* Econ 202: Microeconomics I (PhD-level), with Ravi Jagadeesan & Ilya Segal
 * Econ 203: Microeconomics II (PhD-level), with Paul Milgrom
 * Econ 257: Industrial Organization I (PhD-level), with Ignacio Cuesta, Liran Einav & Paulo Somaini (upcoming)
 <!--  -->
