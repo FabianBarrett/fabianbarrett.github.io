@@ -13,7 +13,7 @@ Hi! :wave: I'm Ben.
 
 I'm currently a predoctoral fellow in economics at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/), working with [Claudia Allende](https://www.claudiaallendesc.com/) and [Shoshana Vasserman](https://shoshanavasserman.com/).
 
-I'm broadly interested in industrial organization and empirical market design, with applications to environmental and health policy.
+I'm broadly interested in industrial organization and empirical market design, with applications in environmental and transportation policy.
 
 Previously, I was a data scientist at [QuantCo](https://quantco.com/), helping develop algorithmic pricing solutions. Before that, I completed a master's degree in statistics at Oxford, and a bachelor's degree in applied mathematics at Harvard.
 
