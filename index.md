@@ -11,7 +11,7 @@ layout: home
 
 Hi! :wave: I'm Ben.
 
-I'm currently a predoctoral fellow in economics at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/), working with [Claudia Allende](https://www.claudiaallendesc.com/) and [Shoshana Vasserman](https://shoshanavasserman.com/).
+I'm currently a predoctoral fellow in economics at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/), working with [Claudia Allende](https://claudiaallende.com/) and [Shoshana Vasserman](https://shoshanavasserman.com/).
 
 I'm broadly interested in industrial organization and empirical market design, with applications to environmental and transportation policy.
 

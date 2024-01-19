@@ -11,6 +11,7 @@ layout: default
 * Econ 202: Microeconomics I (PhD-level), with Ravi Jagadeesan & Ilya Segal
 * Econ 203: Microeconomics II (PhD-level), with Paul Milgrom
 * Econ 257: Industrial Organization I (PhD-level), with Ignacio Cuesta, Liran Einav & Paulo Somaini
+* Econ 258: Industrial Organization II (PhD-level), with Matt Gentzkow, Neale Mahoney & Ali Yurukoglu
 <!--  -->
 <!-- @Harvard: -->
 * Econ 1011a: Intermediate Microeconomics: Advanced, with Ed Glaeser
