@@ -11,12 +11,10 @@ layout: home
 
 Hi! :wave: I'm Ben.
 
-I'm currently a predoctoral fellow in economics at the [Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/), working with [Claudia Allende](https://claudiaallende.com/) and [Shoshana Vasserman](https://shoshanavasserman.com/).
+I'm an incoming PhD student in Economics at Stanford GSB, starting in September 2024. 
 
-I'm broadly interested in industrial organization and empirical market design, with applications to environmental and transportation policy.
+I'm broadly interested in industrial organization, urban and environmental economics, and econometrics.
 
-Previously, I was a data scientist at [QuantCo](https://quantco.com/), helping develop algorithmic pricing solutions. Before that, I completed a master's degree in statistics at Oxford, and a bachelor's degree in applied mathematics at Harvard.
+Previously, I was a predoctoral fellow in economics at [SIEPR](https://siepr.stanford.edu/), and a data scientist at [QuantCo](https://quantco.com/). 
 
-I am applying to PhD programs in economics for Fall 2024 admission. 
-
-[Résumé](/data/resume.pdf) \| [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/FabianBarrett) \| [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/BenNeuber) \| [<i class="fa fa-envelope" aria-hidden="true"></i>](mailto:barrettb@stanford.edu)
+I hold a master's degree in statistics from Oxford, and a bachelor's degree in applied mathematics from Harvard.
